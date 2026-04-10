@@ -23,6 +23,7 @@ public class Main {
 		for (int i = 0; i < tamNumOrder; i++) {
 			System.out.print(numOrdenar[i] + " ");
 		}
-	}
 
+		System.out.println("programa finalizado...........");
+	}
 }
